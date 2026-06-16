@@ -5,7 +5,7 @@
 
 **Tech Stack:** HTML · CSS · JavaScript · p5.js
 
-🔍 **[Open in Browser](https://dina-khan.github.io/poetry-rhyme-finder/)** 
+🔍 **[Open in Browser](https://dina-khan.github.io/rhyme-algorithm/)** 
 
  📄 **[View Report](docs/report.pdf)**
 
